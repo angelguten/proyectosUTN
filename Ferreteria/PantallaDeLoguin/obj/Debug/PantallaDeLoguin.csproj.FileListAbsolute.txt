@@ -1,0 +1,72 @@
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\PantallaDeLoguin\bin\Debug\PantallaDeLoguin.exe.config
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\PantallaDeLoguin\bin\Debug\PantallaDeLoguin.exe
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\PantallaDeLoguin\bin\Debug\PantallaDeLoguin.pdb
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\PantallaDeLoguin\bin\Debug\Comprador.exe
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\PantallaDeLoguin\bin\Debug\Comprador.pdb
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\PantallaDeLoguin\obj\Debug\PantallaDeLoguin.csprojResolveAssemblyReference.cache
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\PantallaDeLoguin\obj\Debug\PantallaDeLoguin.frmLoguin.resources
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\PantallaDeLoguin\obj\Debug\PantallaDeLoguin.Properties.Resources.resources
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\PantallaDeLoguin\obj\Debug\PantallaDeLoguin.csproj.GenerateResource.Cache
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\PantallaDeLoguin\obj\Debug\PantallaDeLoguin.exe
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\PantallaDeLoguin\obj\Debug\PantallaDeLoguin.pdb
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\PantallaDeLoguin\bin\Debug\Vendedor.exe
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\PantallaDeLoguin\bin\Debug\Vendedor.pdb
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\PantallaDeLoguin\bin\Debug\BibliotecaFerreteria.dll
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\PantallaDeLoguin\bin\Debug\BibliotecaFerreteria.pdb
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\PantallaDeLoguin\bin\Debug\PantallaDeLoguin.exe.config
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\PantallaDeLoguin\bin\Debug\PantallaDeLoguin.exe
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\PantallaDeLoguin\bin\Debug\PantallaDeLoguin.pdb
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\PantallaDeLoguin\bin\Debug\BibliotecaFerreteria.dll
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\PantallaDeLoguin\bin\Debug\Comprador.exe
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\PantallaDeLoguin\bin\Debug\Vendedor.exe
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\PantallaDeLoguin\bin\Debug\BibliotecaFerreteria.pdb
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\PantallaDeLoguin\bin\Debug\Comprador.pdb
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\PantallaDeLoguin\bin\Debug\Comprador.exe.config
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\PantallaDeLoguin\bin\Debug\Vendedor.pdb
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\PantallaDeLoguin\bin\Debug\Vendedor.exe.config
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\PantallaDeLoguin\obj\Debug\PantallaDeLoguin.csprojAssemblyReference.cache
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\PantallaDeLoguin\obj\Debug\PantallaDeLoguin.frmLoguin.resources
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\PantallaDeLoguin\obj\Debug\PantallaDeLoguin.Properties.Resources.resources
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\PantallaDeLoguin\obj\Debug\PantallaDeLoguin.csproj.GenerateResource.cache
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\PantallaDeLoguin\obj\Debug\PantallaDeLoguin.csproj.CoreCompileInputs.cache
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\PantallaDeLoguin\obj\Debug\PantallaDeLoguin.csproj.CopyComplete
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\PantallaDeLoguin\obj\Debug\PantallaDeLoguin.exe
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\PantallaDeLoguin\obj\Debug\PantallaDeLoguin.pdb
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\bin\Debug\PantallaDeLoguin.exe.config
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\bin\Debug\PantallaDeLoguin.exe
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\bin\Debug\PantallaDeLoguin.pdb
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\bin\Debug\BibliotecaFerreteria.dll
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\bin\Debug\Comprador.exe
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\bin\Debug\Vendedor.exe
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\bin\Debug\BibliotecaFerreteria.pdb
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\bin\Debug\Comprador.pdb
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\bin\Debug\Comprador.exe.config
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\bin\Debug\Vendedor.pdb
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\bin\Debug\Vendedor.exe.config
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\obj\Debug\PantallaDeLoguin.csprojAssemblyReference.cache
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\obj\Debug\PantallaDeLoguin.frmLoguin.resources
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\obj\Debug\PantallaDeLoguin.Properties.Resources.resources
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\obj\Debug\PantallaDeLoguin.csproj.GenerateResource.cache
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\obj\Debug\PantallaDeLoguin.csproj.CoreCompileInputs.cache
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\obj\Debug\PantallaDeLoguin.csproj.CopyComplete
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\obj\Debug\PantallaDeLoguin.exe
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\obj\Debug\PantallaDeLoguin.pdb
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\bin\Debug\PantallaDeLoguin.exe.config
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\bin\Debug\PantallaDeLoguin.exe
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\bin\Debug\PantallaDeLoguin.pdb
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\bin\Debug\BibliotecaFerreteria.dll
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\bin\Debug\Comprador.exe
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\bin\Debug\Vendedor.exe
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\bin\Debug\BibliotecaFerreteria.pdb
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\bin\Debug\Comprador.pdb
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\bin\Debug\Comprador.exe.config
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\bin\Debug\Vendedor.pdb
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\bin\Debug\Vendedor.exe.config
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\obj\Debug\PantallaDeLoguin.csprojAssemblyReference.cache
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\obj\Debug\PantallaDeLoguin.frmLoguin.resources
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\obj\Debug\PantallaDeLoguin.Properties.Resources.resources
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\obj\Debug\PantallaDeLoguin.csproj.GenerateResource.cache
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\obj\Debug\PantallaDeLoguin.csproj.CoreCompileInputs.cache
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\obj\Debug\PantallaDeLoguin.csproj.CopyComplete
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\obj\Debug\PantallaDeLoguin.exe
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\PantallaDeLoguin\obj\Debug\PantallaDeLoguin.pdb

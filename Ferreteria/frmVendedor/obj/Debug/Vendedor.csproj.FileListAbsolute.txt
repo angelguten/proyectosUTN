@@ -1,0 +1,4 @@
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\frmVendedor\obj\Debug\Vendedor.csprojResolveAssemblyReference.cache
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\frmVendedor\obj\Debug\Vendedor.frmVendedor.resources
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\frmVendedor\obj\Debug\frmVendedor.Properties.Resources.resources
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\frmVendedor\obj\Debug\Vendedor.csproj.GenerateResource.Cache

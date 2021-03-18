@@ -1,0 +1,23 @@
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\BibliotecaFerreteria\bin\Debug\BibliotecaFerreteria.dll
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\BibliotecaFerreteria\bin\Debug\BibliotecaFerreteria.pdb
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\BibliotecaFerreteria\obj\Debug\BibliotecaFerreteria.dll
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\BibliotecaFerreteria\obj\Debug\BibliotecaFerreteria.pdb
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\BibliotecaFerreteria\obj\Debug\BibliotecaFerreteria.csprojResolveAssemblyReference.cache
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\BibliotecaFerreteria\bin\Debug\BibliotecaFerreteria.dll
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\BibliotecaFerreteria\bin\Debug\BibliotecaFerreteria.pdb
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\BibliotecaFerreteria\obj\Debug\BibliotecaFerreteria.csprojAssemblyReference.cache
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\BibliotecaFerreteria\obj\Debug\BibliotecaFerreteria.csproj.CoreCompileInputs.cache
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\BibliotecaFerreteria\obj\Debug\BibliotecaFerreteria.dll
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\BibliotecaFerreteria\obj\Debug\BibliotecaFerreteria.pdb
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\BibliotecaFerreteria\bin\Debug\BibliotecaFerreteria.dll
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\BibliotecaFerreteria\bin\Debug\BibliotecaFerreteria.pdb
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\BibliotecaFerreteria\obj\Debug\BibliotecaFerreteria.csprojAssemblyReference.cache
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\BibliotecaFerreteria\obj\Debug\BibliotecaFerreteria.csproj.CoreCompileInputs.cache
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\BibliotecaFerreteria\obj\Debug\BibliotecaFerreteria.dll
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\BibliotecaFerreteria\obj\Debug\BibliotecaFerreteria.pdb
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\BibliotecaFerreteria\bin\Debug\BibliotecaFerreteria.dll
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\BibliotecaFerreteria\bin\Debug\BibliotecaFerreteria.pdb
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\BibliotecaFerreteria\obj\Debug\BibliotecaFerreteria.csproj.CoreCompileInputs.cache
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\BibliotecaFerreteria\obj\Debug\BibliotecaFerreteria.dll
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\BibliotecaFerreteria\obj\Debug\BibliotecaFerreteria.pdb
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\BibliotecaFerreteria\obj\Debug\BibliotecaFerreteria.csprojAssemblyReference.cache

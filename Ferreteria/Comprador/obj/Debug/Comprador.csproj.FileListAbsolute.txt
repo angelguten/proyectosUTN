@@ -1,0 +1,56 @@
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\Comprador\bin\Debug\Comprador.exe.config
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\Comprador\bin\Debug\Comprador.exe
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\Comprador\bin\Debug\Comprador.pdb
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\Comprador\obj\Debug\Comprador.frmComprador.resources
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\Comprador\obj\Debug\Comprador.Properties.Resources.resources
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\Comprador\obj\Debug\Comprador.csproj.GenerateResource.Cache
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\Comprador\obj\Debug\Comprador.exe
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\Comprador\obj\Debug\Comprador.pdb
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\Comprador\bin\Debug\BibliotecaFerreteria.dll
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\Comprador\bin\Debug\BibliotecaFerreteria.pdb
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\Comprador\obj\Debug\Comprador.csprojResolveAssemblyReference.cache
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\Comprador\bin\Debug\Comprador.exe.config
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\Comprador\bin\Debug\Comprador.exe
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\Comprador\bin\Debug\Comprador.pdb
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\Comprador\bin\Debug\BibliotecaFerreteria.dll
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\Comprador\bin\Debug\BibliotecaFerreteria.pdb
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\Comprador\obj\Debug\Comprador.csprojAssemblyReference.cache
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\Comprador\obj\Debug\Comprador.frmComprador.resources
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\Comprador\obj\Debug\Comprador.Properties.Resources.resources
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\Comprador\obj\Debug\Comprador.csproj.GenerateResource.cache
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\Comprador\obj\Debug\Comprador.csproj.CoreCompileInputs.cache
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\Comprador\obj\Debug\Comprador.csproj.CopyComplete
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\Comprador\obj\Debug\Comprador.exe
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\Comprador\obj\Debug\Comprador.pdb
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Comprador\bin\Debug\Comprador.exe.config
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Comprador\bin\Debug\Comprador.exe
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Comprador\bin\Debug\Comprador.pdb
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Comprador\bin\Debug\BibliotecaFerreteria.dll
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Comprador\bin\Debug\BibliotecaFerreteria.pdb
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Comprador\obj\Debug\Comprador.csprojAssemblyReference.cache
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Comprador\obj\Debug\Comprador.frmComprador.resources
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Comprador\obj\Debug\Comprador.Properties.Resources.resources
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Comprador\obj\Debug\Comprador.csproj.GenerateResource.cache
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Comprador\obj\Debug\Comprador.csproj.CoreCompileInputs.cache
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Comprador\obj\Debug\Comprador.csproj.CopyComplete
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Comprador\obj\Debug\Comprador.exe
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Comprador\obj\Debug\Comprador.pdb
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Comprador\bin\Debug\Comprador.exe.config
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Comprador\bin\Debug\Comprador.exe
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Comprador\bin\Debug\Comprador.pdb
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Comprador\bin\Debug\BibliotecaFerreteria.dll
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Comprador\bin\Debug\BibliotecaFerreteria.pdb
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Comprador\obj\Debug\Comprador.csprojAssemblyReference.cache
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Comprador\obj\Debug\Comprador.frmComprador.resources
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Comprador\obj\Debug\Comprador.Properties.Resources.resources
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Comprador\obj\Debug\Comprador.csproj.GenerateResource.cache
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Comprador\obj\Debug\Comprador.csproj.CoreCompileInputs.cache
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Comprador\obj\Debug\Comprador.csproj.CopyComplete
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Comprador\obj\Debug\Comprador.exe
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Comprador\obj\Debug\Comprador.pdb
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Comprador\bin\Debug\Vendedor.exe
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Comprador\bin\Debug\Vendedor.pdb
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Comprador\bin\Debug\Vendedor.exe.config
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Comprador\bin\Debug\Vendedor.exe
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Comprador\bin\Debug\Vendedor.pdb
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Comprador\bin\Debug\Vendedor.exe.config

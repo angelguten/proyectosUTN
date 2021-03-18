@@ -1,0 +1,43 @@
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\Vendedor\bin\Debug\Vendedor.exe.config
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\Vendedor\bin\Debug\Vendedor.exe
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\Vendedor\bin\Debug\Vendedor.pdb
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\Vendedor\obj\Debug\Vendedor.frmVendedor.resources
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\Vendedor\obj\Debug\Vendedor.Properties.Resources.resources
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\Vendedor\obj\Debug\Vendedor.csproj.GenerateResource.Cache
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\Vendedor\obj\Debug\Vendedor.exe
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\Vendedor\obj\Debug\Vendedor.pdb
+C:\Users\ARIEL\Documents\EjerciciosDeLaGuia_ 2020\Barrionuevo.Ariel.2D\Ferreteria\Vendedor\obj\Debug\Vendedor.csprojResolveAssemblyReference.cache
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\Vendedor\bin\Debug\Vendedor.exe.config
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\Vendedor\bin\Debug\Vendedor.exe
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\Vendedor\bin\Debug\Vendedor.pdb
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\Vendedor\obj\Debug\Vendedor.csprojAssemblyReference.cache
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\Vendedor\obj\Debug\Vendedor.frmVendedor.resources
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\Vendedor\obj\Debug\Vendedor.Properties.Resources.resources
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\Vendedor\obj\Debug\Vendedor.csproj.GenerateResource.cache
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\Vendedor\obj\Debug\Vendedor.csproj.CoreCompileInputs.cache
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\Vendedor\obj\Debug\Vendedor.exe
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\Barrionuevo.Ariel.2D\Ferreteria\Vendedor\obj\Debug\Vendedor.pdb
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Vendedor\bin\Debug\Vendedor.exe.config
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Vendedor\bin\Debug\Vendedor.exe
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Vendedor\bin\Debug\Vendedor.pdb
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Vendedor\obj\Debug\Vendedor.csprojAssemblyReference.cache
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Vendedor\obj\Debug\Vendedor.frmVendedor.resources
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Vendedor\obj\Debug\Vendedor.Properties.Resources.resources
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Vendedor\obj\Debug\Vendedor.csproj.GenerateResource.cache
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Vendedor\obj\Debug\Vendedor.csproj.CoreCompileInputs.cache
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Vendedor\obj\Debug\Vendedor.exe
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Vendedor\obj\Debug\Vendedor.pdb
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Vendedor\bin\Debug\Vendedor.exe.config
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Vendedor\bin\Debug\Vendedor.exe
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Vendedor\bin\Debug\Vendedor.pdb
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Vendedor\obj\Debug\Vendedor.Factura.resources
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Vendedor\obj\Debug\Vendedor.frmVendedor.resources
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Vendedor\obj\Debug\Vendedor.Properties.Resources.resources
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Vendedor\obj\Debug\Vendedor.csproj.GenerateResource.cache
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Vendedor\obj\Debug\Vendedor.csproj.CoreCompileInputs.cache
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Vendedor\obj\Debug\Vendedor.exe
+D:\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Vendedor\obj\Debug\Vendedor.pdb
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Vendedor\obj\Debug\Vendedor.Factura.resources
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Vendedor\bin\Debug\BibliotecaFerreteria.dll
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Vendedor\bin\Debug\BibliotecaFerreteria.pdb
+C:\Users\ARIEL\Documents\UTN-FRA TECNICATURA\LABORATORIO II\TRABAJOS PRACTICOS\TPN_4\Ferreteria\Vendedor\obj\Debug\Vendedor.csproj.CopyComplete
